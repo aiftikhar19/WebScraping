@@ -17,7 +17,7 @@ PLATFORMS
 
 DEPENDENCIES
   httparty
-  nokogiri
+  nokogiri (>= 1.10.4)
 
 BUNDLED WITH
    1.16.6
